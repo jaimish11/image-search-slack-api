@@ -5,13 +5,19 @@ An Express-based API that looks up images based on an input string received from
 ## Demo 
 
 - Lookup an image using the /image-search slash command
+
 ![](slash-command.gif)
 
+
 - Shuffle existing image
+
 ![](shuffle.gif)
 
+
 - Send the selected image
+
 ![](send.gif)
+
 
 ## Prerequisties
 
