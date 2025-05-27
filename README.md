@@ -1,3 +1,12 @@
+🚧 Work in Progress
+
+This project is currently being refactored and extended. It showcases a Slack image search integration and will include:
+
+- Serverless deployment via AWS Lambda
+- Observability via CloudWatch
+- Optional caching and async event handling via SQS
+- And more
+
 # Slack App backend built with Express
 
 An Express-based API that looks up images based on an input string received from a slash command from a Slack client application.
